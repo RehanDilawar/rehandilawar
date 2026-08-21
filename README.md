@@ -15,7 +15,7 @@
 
 ### 🛠️ Skills & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,py,fastapi,sqlite,html,css,vite,cpp,c,git,vscode,powershell&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,py,fastapi,sqlite,html,css,bootstrap,tailwind,vite,cpp,c,git,vscode,powershell&perline=8" alt="Skills" />
 </p>
 
 ---
