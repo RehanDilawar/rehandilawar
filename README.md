@@ -22,9 +22,21 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://discord.com/users/malcolmx007" target="_blank"><img width="50" height="50" alt="ezgif-547bf02843479ab9" src="https://github.com/user-attachments/assets/9f52a2dd-bfa4-41fe-99ae-c598ac0dab71" /></a>
-  <a href="https://github.com/rehandilawar" target="_blank"><img width="50" height="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank"><img width="50" height="50" alt="UPWORK" src="https://github.com/user-attachments/assets/4c6f4aee-8f52-47d9-89fe-a69c4311a6d3" /></a>
+  <a href="https://discord.com/users/malcolmx007" target="_blank">
+    <img width="50" height="50" alt="discord-animated (1) (1)" src="https://github.com/user-attachments/assets/2adc078b-5399-46c3-9ef1-cbb76f18564f" />
+  </a>
+  <a href="https://github.com/rehandilawar" target="_blank">
+    <img width="50" height="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank">
+    <img width="50" height="50" alt="UPWORK" src="https://github.com/user-attachments/assets/4c6f4aee-8f52-47d9-89fe-a69c4311a6d3" /></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/RehanDilawar/last-card-game" target="_blank">
+    <img width="450" src="https://opengraph.githubassets.com/1/RehanDilawar/last-card-game"alt="Last Card Game Repo Card" />
+  </a>
 </p>
 
 ---
@@ -48,6 +60,14 @@
 </p>
 
 ---
+
+### 💡 Daily Dev Humor
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Joke" />
+</p>
+
+---
+
 
 <p align="center">
   ⭐️ <em>Thanks for visiting my profile! Let's connect and build something impactful.</em>
