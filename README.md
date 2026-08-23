@@ -15,7 +15,7 @@
 
 ### 🛠️ Skills & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,py,fastapi,sqlite,html,css,bootstrap,tailwind,vite,cpp,c,git,vscode,powershell&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,py,fastapi,sqlite,html,css,bootstrap,tailwind,vite,cpp,c,github,git,netlify,vscode,powershell&perline=9" alt="Skills" />
 </p>
 
 ---
@@ -23,12 +23,18 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://discord.com/users/malcolmx007" target="_blank">
-    <img width="50" height="50" alt="discord-animated (1) (1)" src="https://github.com/user-attachments/assets/2adc078b-5399-46c3-9ef1-cbb76f18564f" />
+    <img width="50" height="50" alt="discord-animated" src="https://github.com/user-attachments/assets/2adc078b-5399-46c3-9ef1-cbb76f18564f" />
   </a>
-  <a href="https://github.com/rehandilawar" target="_blank">
-    <img width="50" height="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="www.linkedin.com/in/rehan-dilawar-0bb769430" target="_blank">
+    <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/b648c139-17a4-45a6-a42d-bdcbaddd4785" />
+  </a>
   <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank">
-    <img width="50" height="50" alt="UPWORK" src="https://github.com/user-attachments/assets/4c6f4aee-8f52-47d9-89fe-a69c4311a6d3" /></a>
+    <img width="50" height="50" alt="upwork" src="https://github.com/user-attachments/assets/36a0f949-d96e-465c-b175-a49209d65aae" />
+  </a>
+  </a>
+  <a href="https://www.instagram.com/shehnshahr" target="_blank">
+    <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/14ae2ed4-e667-4e38-8140-21915c5590aa" />
+  </a>
 </p>
 
 ---
