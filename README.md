@@ -31,7 +31,6 @@
   <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank">
     <img width="50" height="50" alt="upwork" src="https://github.com/user-attachments/assets/36a0f949-d96e-465c-b175-a49209d65aae" />
   </a>
-  </a>
   <a href="https://www.instagram.com/shehnshahr" target="_blank">
     <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/14ae2ed4-e667-4e38-8140-21915c5590aa" />
   </a>
@@ -39,9 +38,10 @@
 
 ---
 
+### 📌 Featured Project
 <p align="center">
   <a href="https://github.com/RehanDilawar/last-card-game" target="_blank">
-    <img width="450" src="https://opengraph.githubassets.com/1/RehanDilawar/last-card-game"alt="Last Card Game Repo Card" />
+    <img width="450" src="https://opengraph.githubassets.com/1/RehanDilawar/last-card-game" alt="Last Card Game Repo Card" />
   </a>
 </p>
 
@@ -73,7 +73,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   ⭐️ <em>Thanks for visiting my profile! Let's connect and build something impactful.</em>
