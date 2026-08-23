@@ -25,7 +25,7 @@
   <a href="https://discord.com/users/malcolmx007" target="_blank">
     <img width="50" height="50" alt="discord-animated" src="https://github.com/user-attachments/assets/2adc078b-5399-46c3-9ef1-cbb76f18564f" />
   </a>
-  <a href="https://www.linkedin.com/in/rehan-dilawar-0bb769430" target="_blank">
+  <a href="https://www.linkedin.com/in/rehan-dilawar-baloch" target="_blank">
     <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/b648c139-17a4-45a6-a42d-bdcbaddd4785" />
   </a>
   <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank">
