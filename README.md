@@ -72,7 +72,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://greasyfork.org/en/users/1438999-haider-11">
+  <a href="https://greasyfork.org/en/users/1438999-rehan-dilawar">
     <img src="https://greasyfork-stats.vercel.app/api/stats?user=1438999&theme=github_dark" height="165" alt="GreasyFork Stats" />
   </a>
 </p>
