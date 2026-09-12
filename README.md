@@ -62,7 +62,19 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehandilawar&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-phi-topaz.vercel.app/graph?username=rehandilawar&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+<h3>
+  <img src="https://cdn.simpleicons.org/greasyfork/red" width="20" height="20" style="vertical-align: middle;" />
+  Greasy Fork Stats
+</h3>
+
+<p align="center">
+  <a href="https://greasyfork.org/en/users/1438999-haider-11">
+    <img src="https://greasyfork-stats.vercel.app/api/stats?user=1438999&theme=github_dark" height="165" alt="GreasyFork Stats" />
+  </a>
 </p>
 
 ---
