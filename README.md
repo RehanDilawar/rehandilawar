@@ -28,9 +28,11 @@
   <a href="https://www.linkedin.com/in/rehan-dilawar-baloch" target="_blank">
     <img width="50" height="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/b648c139-17a4-45a6-a42d-bdcbaddd4785" />
   </a>
+<!--
   <a href="https://www.upwork.com/freelancers/~018289be9c9a2b478b" target="_blank">
     <img width="50" height="50" alt="upwork" src="https://github.com/user-attachments/assets/36a0f949-d96e-465c-b175-a49209d65aae" />
   </a>
+-->
   <a href="https://www.instagram.com/shehnshahr" target="_blank">
     <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/14ae2ed4-e667-4e38-8140-21915c5590aa" />
   </a>
