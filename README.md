@@ -40,8 +40,8 @@
 
 ### 📌 Featured Project
 <p align="center">
-  <a href="https://github.com/RehanDilawar/last-card-game" target="_blank">
-    <img width="450" src="https://opengraph.githubassets.com/1/RehanDilawar/last-card-game" alt="Last Card Game Repo Card" />
+  <a href="https://github.com/RehanDilawar/Wplace-Canvas-Color-Studio-Quantizer" target="_blank">
+    <img width="450" src="https://opengraph.githubassets.com/1/RehanDilawar/Wplace-Canvas-Color-Studio-Quantizer" alt="Wplace Canvas Color Studio Quantizer" />
   </a>
 </p>
 
